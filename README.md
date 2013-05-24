@@ -18,3 +18,6 @@ set -g status-right "#[fg=blue,bg=black,bright]#(~/.tmux/battery.sh)#[default]"
 ```
 
 where ~/.tmux/battery.sh is the path to the script 
+
+4. Kill Tmux by "killall tmux"
+5. Start Tmux again
