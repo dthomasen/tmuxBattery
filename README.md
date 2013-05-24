@@ -1,13 +1,14 @@
 tmuxBattery
 ===========
 
-Script for Tmux battery indicator
+Script to get a Tmux battery indicator for laptops
+
+* Showing percent and time left when on battery charge
+* Showing only percent when plugged in
 
 ## Usage:
 1. Put the script somewhere you can find it
-
 2. Open your ~/.tmux.conf in your favorite editor
-
 3. Paste the following lines at the end of the document: 
 
 ```bash
